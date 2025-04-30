@@ -1,9 +1,7 @@
 [
   {
     "title": "Документация",
-    "icon": "docs.png",
     "contentUrl": "https://nicosare.github.io/MbarDocs/index.html",
-    "requiresAuth": false,
     "description": "Инструкции по использованию"
   }
 ]
