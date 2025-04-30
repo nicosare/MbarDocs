@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Тестовая страница</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        .test-box {
+            border: 2px solid #24262D;
+            border-radius: 10px;
+            padding: 15px;
+            margin: 15px 0;
+        }
+        button {
+            background-color: #24262D;
+            color: white;
+            padding: 8px 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Тестовая страница</h1>
+    
+    <div class="test-box">
+        <h2>Проверка элементов</h2>
+        
+        <p>Это простой абзац текста для проверки отображения.</p>
+        
+        <ul>
+            <li>Элемент списка 1</li>
+            <li>Элемент списка 2</li>
+            <li>Элемент списка 3</li>
+        </ul>
+        
+        <img src="https://via.placeholder.com/400x200" 
+             alt="Тестовое изображение"
+             style="width: 100%; border-radius: 5px;">
+    </div>
+
+    <div class="test-box">
+        <h3>Проверка JavaScript</h3>
+        <button onclick="showAlert()">Нажми меня</button>
+        <p id="demo-text"></p>
+    </div>
+
+    <script>
+        function showAlert() {
+            alert('JavaScript работает!');
+            document.getElementById('demo-text').textContent = 'Скрипт выполнен успешно!';
+        }
+    </script>
+</body>
+</html>
