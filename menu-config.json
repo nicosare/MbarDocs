@@ -1,30 +1,9 @@
 [
   {
-    "title": "Новости",
-    "icon": "news.png",
-    "contentUrl": "https://your-github-io.pages.dev/news",
-    "requiresAuth": false,
-    "description": "Последние обновления приложения"
-  },
-  {
     "title": "Документация",
     "icon": "docs.png",
-    "contentUrl": "https://your-github-io.pages.dev/docs",
-    "requiresAuth": true,
+    "contentUrl": "https://nicosare.github.io/MbarDocs/index.html",
+    "requiresAuth": false,
     "description": "Инструкции по использованию"
-  },
-  {
-    "title": "Тестовая страница",
-    "icon": "test.png",
-    "contentUrl": "https://your-github-io.pages.dev/test.html",
-    "requiresAuth": false,
-    "description": "Страница для разработчиков"
-  },
-  {
-    "title": "О приложении",
-    "icon": "info.png",
-    "contentUrl": "https://your-github-io.pages.dev/about",
-    "requiresAuth": false,
-    "description": "Версия 1.0.0 | Контакты"
   }
 ]
