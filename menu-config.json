@@ -1,16 +1,61 @@
 [
   {
-    "title": "Введение",
+    "title": "• Введение",
     "contentUrl": "https://nicosare.github.io/MbarDocs/index.html",
     "description": "Знакомство с минибарами"
   },
   {
-    "title": "Лайфхаки",
+    "title": "• Лайфхаки",
     "contentUrl": "https://nicosare.github.io/MbarDocs/index.html",
     "description": "Полезно знать"
   },
   {
-    "title": "Документация",
+    "title": "• Акцизы",
+    "contentUrl": "https://nicosare.github.io/MbarDocs/index.html",
+    "description": "Как и что сканировать"
+  },
+  {
+    "title": "• Документация",
+    "contentUrl": "https://nicosare.github.io/MbarDocs/index.html",
+    "description": "Инструкции по использованию приложения"
+  },
+  {
+    "title": "• Введение",
+    "contentUrl": "https://nicosare.github.io/MbarDocs/index.html",
+    "description": "Знакомство с минибарами"
+  },
+  {
+    "title": "• Лайфхаки",
+    "contentUrl": "https://nicosare.github.io/MbarDocs/index.html",
+    "description": "Полезно знать"
+  },
+  {
+    "title": "• Акцизы",
+    "contentUrl": "https://nicosare.github.io/MbarDocs/index.html",
+    "description": "Как и что сканировать"
+  },
+  {
+    "title": "• Документация",
+    "contentUrl": "https://nicosare.github.io/MbarDocs/index.html",
+    "description": "Инструкции по использованию приложения"
+  },
+  {
+    "title": "• Введение",
+    "contentUrl": "https://nicosare.github.io/MbarDocs/index.html",
+    "description": "Знакомство с минибарами"
+  },
+  {
+    "title": "• Лайфхаки",
+    "contentUrl": "https://nicosare.github.io/MbarDocs/index.html",
+    "description": "Полезно знать"
+  },
+  {
+    "title": "• Акцизы",
+    "contentUrl": "https://nicosare.github.io/MbarDocs/index.html",
+    "description": "Как и что сканировать"
+  },
+  {
+    "title": "• Документация",
     "contentUrl": "https://nicosare.github.io/MbarDocs/index.html",
     "description": "Инструкции по использованию приложения"
   }
