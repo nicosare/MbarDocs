@@ -1,7 +1,12 @@
 [
   {
+    "title": "Введение",
+    "contentUrl": "https://nicosare.github.io/MbarDocs/index.html",
+    "description": "Знакомство с минибарами"
+  },
+  {
     "title": "Документация",
     "contentUrl": "https://nicosare.github.io/MbarDocs/index.html",
-    "description": "Инструкции по использованию"
+    "description": "Инструкции по использованию приложения"
   }
 ]
