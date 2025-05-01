@@ -5,6 +5,11 @@
     "description": "Знакомство с минибарами"
   },
   {
+    "title": "Лайфхаки",
+    "contentUrl": "https://nicosare.github.io/MbarDocs/index.html",
+    "description": "Полезно знать"
+  },
+  {
     "title": "Документация",
     "contentUrl": "https://nicosare.github.io/MbarDocs/index.html",
     "description": "Инструкции по использованию приложения"
